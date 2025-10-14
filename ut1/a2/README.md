@@ -1,36 +1,50 @@
-#Tarea ETS.
+# Tarea ETS.
+___
 
-##Markdown
+## Markdown
+___
 
-###Esta tarea estará hecha con el lenguaje markdown.
+### Esta tarea estará hecha con el lenguaje markdown.
+___
+## Lista de viñetas:
 
-##Lista de viñetas:
--ETS 
+-ETS
+ 
 -PRO
--SSF
 
-##Lista con números:
+-SSF
+___
+
+## Lista con números:
 1. ETS
 2. PRO
 3. SSF
+___
 
 **Negrita** 
 *Cursiva* 
+___
 
-##Enlace: 
+## Enlace: 
 
 [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 <https://es.wikipedia.org/wiki/Wikipedia:Portada>
+___
 
 [Butragueño](home/dam/Descargas/Butragueño.jpeg)
+__
 
-##Código: 
+## Código: 
 
 ~~
 float
 ~~ 
+__
  
-##Cita en bloque:
+## Cita en bloque:
 
 >Esto es una cita
+
 >Continuar cita
+___
+
