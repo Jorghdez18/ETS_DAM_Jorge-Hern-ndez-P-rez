@@ -31,7 +31,7 @@ ___
 <https://es.wikipedia.org/wiki/Wikipedia:Portada>
 ___
 
-[Butragueño](home/dam/Descargas/Butragueño.jpeg)
+![Butragueño](home/dam/Descargas/Butragueño.jpeg)
 __
 
 ## Código: 
