@@ -36,11 +36,9 @@ __
 
 ## Código: 
 
-~~
-
+~~~
 float
-
-~~ 
+~~~ 
 ___
  
 ## Cita en bloque:
