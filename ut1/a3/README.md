@@ -56,13 +56,14 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 11-Creamos una nueva rama denomionada como "v0.2"
 <br>
 12-Añadimos un fichero 2.txt en la rama que acabamos de crear y hacemos un nuevo commit para guardar los camnbios.
-<img
+![cap3](/ut1/a1/img/cap3.png)
 <br>
 13-Subimos los cambios al repositorio remoto.
 <br>
 14-Nos posicionamos en la rama main y  hacemos un merge de la rama v0.2 en la rama main.
 <br>
 15-En la rama main agregamos un "Hola" en el fichero 1.txt y hacemos un nuevo commit.
+![cap4](/ut1/a1/img/cap4.png)
 <br>
 16-Luego nos posicionamos en la rama v0.2 y ponemos un "Adios" en el fichero 1.txt para hacer nuevamente otro commit.
 <br>
@@ -71,12 +72,14 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 18- Listamos las ramas con merge y las ramas sin merge.
 <br>
 19-Como nos ha salido un conflicto, arreglamos dicho problema y hacemos un commit.
+![cap5](/ut1/a1/img/cap5png)
 <br>
 20-Creamos un tag v0.2.
 <br>
 21-Borramos la rama v0.2.
 <br>
 22-Hacemos un listado de los distintos commits con sus ramas y sus tags.
+![cap6](/ut1/a1/img/cap6.png)
 <br>
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
@@ -88,6 +91,7 @@ ___
 Gracias a este trabajo he podido refrescar la memoria en cuanto a la utilizacion de distintos comandos de git y aperender algunos nuevos, ademas de poder empezar a documentar trabajos, lo cual nos ayudara a poder documentar mas en un futuro.
 ___
 
+#### ***Preguntas y respuestas dentro de la actividad***. <a name="id5"></a>
 
 
 
