@@ -2,14 +2,14 @@
 <center>
 
 # PRACTICANDO CON GIT
-
+___
 
 </center>
 
 ***Nombre:*** Jorge Hernandez Perez
 <br>
 ***Curso:*** 1DAM
-
+___
 ### ÍNDICE
 
 + [Introducción](#id1)
@@ -19,10 +19,10 @@
 + [Conclusiones](#id5)
 + [Preguntas y respuestas dentro de la actividad](#id5)
 
-
+___
 #### ***Introducción***. <a name="id1"></a>
 En esta practica realizaremos una actividad de repaso para saber utilizar git. En ella haremos dos actividades, en una crearemos un repositorio en el cual haremos diferentes comandos, que a su misma vez nos daran una serie de conflictos que tendremos que ir solucionando poco a poco. En la segunda actividad realizaremos un readme en el cual redactaremos el guion de la actividad, para asi dejar documentado nuestro trabajo.
-
+___
 #### ***Objetivos***. <a name="id2"></a>
 
 Los objetivos de esta actividad, serian aprender a usar git y la terminal para asi desemvolvernos bien con dichas herramientas, ademas de aprender a resolver conflictos.
@@ -56,6 +56,7 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 11-Creamos una nueva rama denomionada como "v0.2"
 <br>
 12-Añadimos un fichero 2.txt en la rama que acabamos de crear y hacemos un nuevo commit para guardar los camnbios.
+<img
 <br>
 13-Subimos los cambios al repositorio remoto.
 <br>
@@ -77,13 +78,16 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 <br>
 22-Hacemos un listado de los distintos commits con sus ramas y sus tags.
 <br>
+
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
-
+En este trabajo he tenido algunas dificultades, pero todas han estado relacionadas con la parte de los pasos, ya que al ser bastantes a veces nos podemos llegar a confumdir saltandonos algun paso o equivocandonos en algun comando, o que nos olvidemos de hacer algun pull o commit, pero con la ayuda del trabajo diario y repaso podremos llegar a acostumbrarnos al uso de estas  herramientas. Ademas tambien he tenid dificultades a la hora de hacer mi maquina virtual, ya que al principio del todo no me dejaba usar virtualbox, pero metiendome en la bios de mi ordenador y cambiando algun ajuste he llegado a poder acceder a la maquina y poder hacer la tarea.
+___
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+Gracias a este trabajo he podido refrescar la memoria en cuanto a la utilizacion de distintos comandos de git y aperender algunos nuevos, ademas de poder empezar a documentar trabajos, lo cual nos ayudara a poder documentar mas en un futuro.
+___
+
 
 
 
