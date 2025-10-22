@@ -60,7 +60,9 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 13-Subimos los cambios al repositorio remoto.
 <br>
 14-Nos posicionamos en la rama main y  hacemos un merge de la rama v0.2 en la rama main.
+
 <br>
+
 15-En la rama main agregamos un "Hola" en el fichero 1.txt y hacemos un nuevo commit.
 <br>
 16-Luego nos posicionamos en la rama v0.2 y ponemos un "Adios" en el fichero 1.txt para hacer nuevamente otro commit.
@@ -84,6 +86,7 @@ Si encontramos dificultades a la hora de realizar algún paso debemos explicar e
 #### ***Conclusiones***. <a name="id5"></a>
 
 En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+
 
 
 
