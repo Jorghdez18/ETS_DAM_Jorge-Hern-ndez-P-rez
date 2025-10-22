@@ -7,6 +7,7 @@
 </center>
 
 ***Nombre:*** Jorge Hernandez Perez
+<br>
 ***Curso:*** 1DAM
 
 ### ÍNDICE
@@ -28,11 +29,13 @@ Los objetivos de esta actividad, serian aprender a usar git y la terminal para a
 
 #### ***Material empleado***. <a name="id3"></a>
 
-En esta actividad utilizaremos nuestro equipo, junto a la terminal y a la herramienta git, que se conectara a nuestro repositorio en git hub para asi almacenar todo nuestro progreso.
+En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la terminal y a la herramienta git, que se conectara a nuestro repositorio en git hub para asi almacenar todo nuestro progreso.
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
+1-Primero iniciaremos nuestro proyecto creando nuestro primer commit, llamado "commit inicial".
+2-Luego crearemos dentro de nuestro repo un Readme.
+
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
@@ -41,4 +44,5 @@ Si encontramos dificultades a la hora de realizar algún paso debemos explicar e
 #### ***Conclusiones***. <a name="id5"></a>
 
 En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+
 
