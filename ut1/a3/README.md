@@ -117,7 +117,7 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 18- Listamos las ramas con merge y las ramas sin merge.
 <br>
 19-Como nos ha salido un conflicto, arreglamos dicho problema y hacemos un commit.
-![cap5](/ut1/a3/img/cap5png)
+![cap5](/ut1/a3/img/cap5.png)
 <br>
 20-Creamos un tag v0.2.
 <br>
@@ -161,6 +161,7 @@ Las ramas permiten corregir errores sin afectar a la versión principal. En orga
 <br>
 No, no se deberían de producir conflictos en esa acción, pues el merge es directo entre la rama de trabajo y la principal, y se asume que al no haber modificaciones simultáneas, git puede realizar la fusión automáticamente.
 ___
+
 
 
 
