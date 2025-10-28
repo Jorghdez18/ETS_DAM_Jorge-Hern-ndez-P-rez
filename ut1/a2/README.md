@@ -32,7 +32,7 @@ ___
 <https://es.wikipedia.org/wiki/Wikipedia:Portada>
 ___
 
-![Fernando ALonso](/ut1/a1/img/elnano.jpeg)
+![Fernando ALonso](/ut1/a2/img/elnano.jpeg)
 ___
 
 ## Código: 
