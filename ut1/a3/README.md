@@ -56,14 +56,14 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 11-Creamos una nueva rama denomionada como "v0.2"
 <br>
 12-Añadimos un fichero 2.txt en la rama que acabamos de crear y hacemos un nuevo commit para guardar los camnbios.
-![cap3](/ut1/a1/img/cap3.png)
+![cap3](/ut1/a3/img/cap3.png)
 <br>
 13-Subimos los cambios al repositorio remoto.
 <br>
 14-Nos posicionamos en la rama main y  hacemos un merge de la rama v0.2 en la rama main.
 <br>
 15-En la rama main agregamos un "Hola" en el fichero 1.txt y hacemos un nuevo commit.
-![cap4](/ut1/a1/img/cap4.png)
+![cap4](/ut1/a3/img/cap4.png)
 <br>
 16-Luego nos posicionamos en la rama v0.2 y ponemos un "Adios" en el fichero 1.txt para hacer nuevamente otro commit.
 <br>
@@ -72,14 +72,14 @@ En esta actividad utilizaremos nuestra maquina virtual de linux, junto a la term
 18- Listamos las ramas con merge y las ramas sin merge.
 <br>
 19-Como nos ha salido un conflicto, arreglamos dicho problema y hacemos un commit.
-![cap5](/ut1/a1/img/cap5png)
+![cap5](/ut1/a3/img/cap5png)
 <br>
 20-Creamos un tag v0.2.
 <br>
 21-Borramos la rama v0.2.
 <br>
 22-Hacemos un listado de los distintos commits con sus ramas y sus tags.
-![cap6](/ut1/a1/img/cap6.png)
+![cap6](/ut1/a3/img/cap6.png)
 <br>
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
@@ -116,6 +116,7 @@ Las ramas permiten corregir errores sin afectar a la versión principal. En orga
 <br>
 No, no se deberían de producir conflictos en esa acción, pues el merge es directo entre la rama de trabajo y la principal, y se asume que al no haber modificaciones simultáneas, git puede realizar la fusión automáticamente.
 ___
+
 
 
 
