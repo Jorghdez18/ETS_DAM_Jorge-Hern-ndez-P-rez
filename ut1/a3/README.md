@@ -92,27 +92,31 @@ Gracias a este trabajo he podido refrescar la memoria en cuanto a la utilizacion
 ___
 
 #### ***Preguntas y respuestas dentro de la actividad***. <a name="id5"></a>
-1- Preunta: el fichero y el directorio privado debe de subir al repositorio si se encuentra añadido al fichero .gitingnore. [Si/No]. Justifica tu respuesta en el fichero README.md:
+1- Pregunta: Si has clonado el repositorio es necesario que parte del comando anterior puedo omitir.Justifica tu respuesta en el fichero
+<br>
+Tras clonar un repositorio, Git directamente configura el remoto y la rama que estás siguiendo, por lo tanto te puedes saltar "origin master"
+<br>
+2- Pregunta: el fichero y el directorio privado debe de subir al repositorio si se encuentra añadido al fichero .gitingnore. [Si/No]. Justifica tu respuesta en el fichero README.md:
 <br>
 Si un fichero o directorio está añadido al archivo .gitignore, significa que Git debe ignorarlo y no incluirlo en el repositorio. Esto se hace para evitar subir archivos innecesarios, temporales o que contengan información sensible (como configuraciones privadas o datos personales). Por tanto, no debe subirse al repositorio.
 <br>
-2- Pregunta: Si ejecutado las acciones add y commit, que realiza cada una sobre el/los ficheros. Justifica tu respuesta en el fichero README.md:
+3- Pregunta: Si ejecutado las acciones add y commit, que realiza cada una sobre el/los ficheros. Justifica tu respuesta en el fichero README.md:
 <br>
 El comando git add prepara los archivos modificados o nuevos para ser guardados, mientras que el comando git commit guarda esos cambios en el historial del repositorio. En conjunto, ambos pasos permiten controlar y documentar la evolución del proyecto de manera organizada.
 <br>
-3-   Pregunta: ¿Qué es un tag sobre un repositorio git, en nuestro caso Github?. Justifica tu respuesta en el fichero README.md:
+4-   Pregunta: ¿Qué es un tag sobre un repositorio git, en nuestro caso Github?. Justifica tu respuesta en el fichero README.md:
 <br>
 Es una etiqueta que marca un punto específico del historial, usada para identificar versiones importantes del proyecto.
 <br>
-4-Preunta: Cuando estamos trabajando con ramas, cual es su fin, y sentido en organizaciones pequeñas/medianas/grandes. Justifica tu respuesta en el fichero README.md:
+5-Pregunta: Cuando estamos trabajando con ramas, cual es su fin, y sentido en organizaciones pequeñas/medianas/grandes. Justifica tu respuesta en el fichero README.md:
 <br>
 Las ramas permiten corregir errores sin afectar a la versión principal. En organizaciones pequeñas, medianas o grandes facilitan el trabajo, la organización del código y la colaboración entre equipos.
 <br>
-5-Pregunta: Se tendrían que producir conflictos en esta acción. [Si/No] Justifica tu respuesta en el fichero README.md:
+6-Pregunta: Se tendrían que producir conflictos en esta acción. [Si/No] Justifica tu respuesta en el fichero README.md:
 <br>
-Sí, pueden producirse conflictos si dos ramas modifican las mismas líneas de un archivo o partes del proyecto de forma diferente al fusionarlas.
-<br>
+No, no se deberían de producir conflictos en esa acción, pues el merge es directo entre la rama de trabajo y la principal, y se asume que al no haber modificaciones simultáneas, git puede realizar la fusión automáticamente.
 ___
+
 
 
 
