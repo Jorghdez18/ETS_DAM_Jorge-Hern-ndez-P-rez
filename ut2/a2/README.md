@@ -32,9 +32,9 @@ ___
 
 **Fase de Mantenimiento:**  
 - Correctivo:
--  Corrige defectos detectados tras la entrega.  
+Corrige defectos detectados tras la entrega.  
 - Evolutivo/Adaptativo:
-- Permite adaptar el software a nuevos requisitos o cambios del entorno.  
+Permite adaptar el software a nuevos requisitos o cambios del entorno.  
 - En modelos clásicos ocurre tras la entrega.
 
 
