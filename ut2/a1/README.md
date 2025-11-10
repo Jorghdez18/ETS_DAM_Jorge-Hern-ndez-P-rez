@@ -10,26 +10,26 @@
 ___
 # Lenguajes de programación seleccionados para añdir a la tabla 
 
-1. Phyton
-2. C
-3. C++
-4. Java
-5. C#
-6. JAvascript
-7. Visual basic
-8. Delphi
-9. Perl
-10. SQL
-11. Go
-12. R
-13. Fortran
-14. Rust
-15. Assembly Language
-16. MatLab
-17. PHP
-18. Ada
-19. Scratch
-20. Kotlin
+1. **Phyton**
+2. **C**
+3. **C++**
+4. **Java**
+5. **C#**
+6. **JAvascript**
+7. **Visual basic**
+8. **Delphi**
+9. **Perl**
+10. **SQL**
+11. **Go**
+12. **R**
+13. **Fortran**
+14. **Rust**
+15. **Assembly Language**
+16. **MatLab**
+17. **PHP**
+18. **Ada**
+19. **Scratch**
+20. **Kotlin**
 ___
     
 # Clasificación, paradigmas y sistemas de tipado de los principales lenguajes de programación
