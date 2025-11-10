@@ -10,7 +10,7 @@
 
 ### ÍNDICE
 
-+ Phyton
+1. Phyton
 + C
 + C++
 + Java
