@@ -47,7 +47,5 @@ Algunos ejemplos:
 ### Conclusión y justificación (10 min)
 Redacta un texto breve (unas 10 líneas) donde respondas:
 
-- ¿Cuál de los tres IDE recomendarías para tu grupo de trabajo?  
-- ¿Por qué crees que se adapta mejor a un proyecto de desarrollo web o de aplicaciones?  
-- ¿Qué criterio has valorado más (rendimiento, comodidad, lenguaje, integración, etc.)?
+Tras analizar los tres IDE, recomendaría Visual Studio Code para el grupo de trabajo**. Es el IDE más versátil, ligero y adaptable tanto para proyectos web como para aplicaciones multiplataforma. Su enorme catálogo de extensiones permite personalizar el entorno fácilmente sin afectar al rendimiento. También destaca por su integración con Git, su rapidez y su interfaz intuitiva, lo que facilita el trabajo colaborativo. El criterio que más he valorado ha sido la combinación de rendimiento, flexibilidad y facilidad de uso**, factores clave para que todo el equipo pueda trabajar de forma eficiente sin depender de equipos potentes o configuraciones complejas.
 
