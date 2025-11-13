@@ -1,1 +1,54 @@
+# UT3-A2 Elige tu IDE ideal
+
+Actividad diseñada para escenario telemático
+
+## Objetivos
+- Analizar y comparar distintos entornos de desarrollo.  
+- Reflexionar sobre los criterios que influyen al elegir un IDE.  
+- Justificar una elección técnica de forma razonada.
+
+
+
+## Contexto
+Imagina que formas parte de un nuevo equipo de desarrollo que va a iniciar un proyecto web o de aplicaciones.  
+Antes de empezar, el equipo debe decidir **qué IDE utilizar**.  
+Tú eres la persona encargada de **analizar varias opciones y justificar la elección final** ante el grupo.
+
+
+
+## Tareas
+
+### Investigación rápida (15 min)
+Busca información sobre **tres IDE distintos** (pueden ser de lenguajes o entornos diferentes).  
+Algunos ejemplos:
+- Visual Studio Code  
+- IntelliJ IDEA  
+- Eclipse  
+- NetBeans  
+- PyCharm  
+- Android Studio  
+- Replit o Gitpod (IDE online)
+
+
+
+### Análisis comparativo (20 min)
+Completa una tabla con la siguiente estructura:
+
+| Criterio | IDE 1 | IDE 2 | IDE 3 |
+|-----------|--------|--------|--------|
+| Lenguajes principales que soporta | | | |
+| Peso o consumo de recursos | | | |
+| Facilidad de instalación | | | |
+| Funciones destacadas (depuración, refactorización, integración con Git, etc.) | | | |
+| Interfaz / usabilidad | | | |
+| Comunidad y soporte | | | |
+| Licencia / coste | | | |
+
+
+### Conclusión y justificación (10 min)
+Redacta un texto breve (unas 10 líneas) donde respondas:
+
+- ¿Cuál de los tres IDE recomendarías para tu grupo de trabajo?  
+- ¿Por qué crees que se adapta mejor a un proyecto de desarrollo web o de aplicaciones?  
+- ¿Qué criterio has valorado más (rendimiento, comodidad, lenguaje, integración, etc.)?
 
