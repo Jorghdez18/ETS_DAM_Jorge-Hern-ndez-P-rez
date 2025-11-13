@@ -1,6 +1,10 @@
 # UT3-A2 Elige tu IDE ideal
 
-Actividad diseñada para escenario telemático
+###Actividad diseñada para escenario telemático
+
+***Nombre: Jorge Hernández Pérez***
+***Curso: 1ºDAM***
+
 
 ## Objetivos
 - Analizar y comparar distintos entornos de desarrollo.  
@@ -22,27 +26,22 @@ Tú eres la persona encargada de **analizar varias opciones y justificar la elec
 Busca información sobre **tres IDE distintos** (pueden ser de lenguajes o entornos diferentes).  
 Algunos ejemplos:
 - Visual Studio Code  
-- IntelliJ IDEA  
 - Eclipse  
-- NetBeans  
-- PyCharm  
 - Android Studio  
-- Replit o Gitpod (IDE online)
 
 
 
-### Análisis comparativo (20 min)
-Completa una tabla con la siguiente estructura:
 
-| Criterio | IDE 1 | IDE 2 | IDE 3 |
-|-----------|--------|--------|--------|
-| Lenguajes principales que soporta | | | |
-| Peso o consumo de recursos | | | |
-| Facilidad de instalación | | | |
-| Funciones destacadas (depuración, refactorización, integración con Git, etc.) | | | |
-| Interfaz / usabilidad | | | |
-| Comunidad y soporte | | | |
-| Licencia / coste | | | |
+|  | Visual Studio Code | Eclipse | Android Studio |
+|-----------|---------------------|---------|----------------|
+| **Lenguajes principales que soporta** | JavaScript, Python, Java, C#, PHP, muchos más mediante extensiones | Java, C/C++, Python, PHP, Kotlin, etc. | Kotlin, Java, Dart (con plugins), orientado a Android |
+| **Peso o consumo de recursos** | Ligero; inicia rápido y consume menos memoria | Medio; puede volverse pesado con muchos plugins | Alto; requiere bastante RAM y CPU |
+| **Facilidad de instalación** | Muy fácil; instalación rápida y multiplataforma | Fácil pero el proceso inicial es más largo | Instalación pesada; incluye SDKs y herramientas |
+| **Funciones destacadas** | Extensiones, Git integrado, depuración, autocompletado, Live Server | Refactorización avanzada, depuración, herramientas JDT | Emuladores, Layout Editor, profiler, integración con Gradle |
+| **Interfaz / usabilidad** | Intuitiva, moderna y muy personalizable | Tradicional, menos intuitiva | Completa pero compleja |
+| **Comunidad y soporte** | Muy amplia y activa | Amplia, especializada en Java | Muy grande en el entorno Android |
+| **Licencia / coste** | Gratuito | Gratuito (EPL) | Gratuito |
+
 
 
 ### Conclusión y justificación (10 min)
