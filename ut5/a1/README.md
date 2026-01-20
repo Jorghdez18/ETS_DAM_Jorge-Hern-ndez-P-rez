@@ -34,7 +34,7 @@ Una empresa quiere desarrollar un sistema para gestionar una **plataforma de re
 Elabora un diagrama de casos de uso UML empleando la herramienta de modelado que estés utilizando (StarUML, draw.io). 
 
 
-![Diagrama de casos de uso](/img/002.png)
+![Diagrama de casos de uso](img/002.drawio.png)
 
 
 
