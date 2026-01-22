@@ -1,5 +1,6 @@
 <center>
 Jorge Hernández Pérez 1ºDAM
+    
 ---
     
 ![Logotipo del centro deportivo](img/001.PNG)
