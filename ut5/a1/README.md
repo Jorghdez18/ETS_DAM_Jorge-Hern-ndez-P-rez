@@ -1,6 +1,9 @@
 <center>
-
-![Logotipo del centro deportivo](/img/001/PNG)
+Jorge Hernández Pérez 1ºDAM                                                              22/1/2026
+    
+---
+    
+![Logotipo del centro deportivo](img/001.PNG)
 
 </center>
 
@@ -19,22 +22,17 @@ Una empresa quiere desarrollar un sistema para gestionar una **plataforma de re
     - Todos los actores del sistema.
     - Todos los casos de uso principales.
     - Las posibles relaciones include y extend que consideres necesarias.
-
+---
 | ACTOR | DESCRIPCION DEL ACTOR | CASOS DE USO DEL ACTOR |
 |:-----:|:---------------------:|:----------------------:|
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-
+|Usuario|  Quien se registra en la plataforma| Registrarse, inicar sesión, modificar perfil, consultar disponibilidad, hacer reserva, cancelar reserva.|
+|Admin  | Controla el sistema y las instalaciones| Añadir instalación, modificar instalación, desactivar instalación, consultar listado de ususarios, bloquear usuario.                        |
+---
 
 Elabora un diagrama de casos de uso UML empleando la herramienta de modelado que estés utilizando (StarUML, draw.io). 
 
 
-![Diagrama de casos de uso](/img/002.PNG)
+![Diagrama de casos de uso](img/002.drawio.png)
 
 
 
