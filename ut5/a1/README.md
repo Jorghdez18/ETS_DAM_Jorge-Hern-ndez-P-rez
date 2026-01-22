@@ -19,17 +19,12 @@ Una empresa quiere desarrollar un sistema para gestionar una **plataforma de re
     - Todos los actores del sistema.
     - Todos los casos de uso principales.
     - Las posibles relaciones include y extend que consideres necesarias.
-
+---
 | ACTOR | DESCRIPCION DEL ACTOR | CASOS DE USO DEL ACTOR |
 |:-----:|:---------------------:|:----------------------:|
-|Usuario|  Quien se registra en la plataforma| Registrarse, Inicar sesión, modificar perfil, consultar disponibilidad, hacer reserva, cancelar reserva|
+|Usuario|  Quien se registra en la plataforma| Registrarse, inicar sesión, modificar perfil, consultar disponibilidad, hacer reserva, cancelar reserva.|
 |Admin  | Controla el sistema y las instalaciones| Añadir instalación, modificar instalación, desactivar instalación, consultar listado de ususarios, bloquear usuario.                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-|       |                       |                        |
-
+---
 
 Elabora un diagrama de casos de uso UML empleando la herramienta de modelado que estés utilizando (StarUML, draw.io). 
 
