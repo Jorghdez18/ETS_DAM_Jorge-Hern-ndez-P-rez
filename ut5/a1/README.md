@@ -22,8 +22,8 @@ Una empresa quiere desarrollar un sistema para gestionar una **plataforma de re
 
 | ACTOR | DESCRIPCION DEL ACTOR | CASOS DE USO DEL ACTOR |
 |:-----:|:---------------------:|:----------------------:|
-|       |                       |                        |
-|       |                       |                        |
+|Usuario|  Quien se registra en la plataforma| Registrarse, Inicar sesión, modificar perfil, consultar disponibilidad, hacer reserva, cancelar reserva|
+|Admin  | Controla el sistema y las instalaciones| Añadir instalación, modificar instalación, desactivar instalación                        |
 |       |                       |                        |
 |       |                       |                        |
 |       |                       |                        |
