@@ -42,7 +42,11 @@ La plataforma permite al admininstrador:
 6. Explicar brevemente por qué existen esas relaciones. 
 
 
+<<<<<<< HEAD
 ![Diagrama de casos de uso](/home/dam/etsdam_jorgehernandez/img/001.PNG)
+=======
+![Diagrama de casos de uso](img/001.png)
+>>>>>>> 7be7b899a71a811cbad1784ee62256e841d450ab
 
 
 
