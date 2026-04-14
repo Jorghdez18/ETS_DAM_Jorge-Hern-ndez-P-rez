@@ -41,12 +41,14 @@ Durante la sesión se realizará un **debate en clase**, donde cada grupo expond
 Para identificar posibles problemas puedes plantearte las siguientes cuestiones:
 
 - ¿Hay **métodos demasiado largos**?
+- 
 - ¿Las **variables tienen nombres claros y descriptivos**?
 - ¿Se repite código en diferentes partes del programa?
 - ¿Hay **números que aparecen directamente en el código sin explicación**?
 - ¿El código mezcla distintas responsabilidades?
 - ¿El programa sería fácil de modificar o ampliar?
 - ¿Falta documentación o comentarios que expliquen el funcionamiento?
+- 
 
 ### Entregable
 
@@ -124,4 +126,8 @@ public class Tienda {
 
     }
 }
+
 ```
+
+
+##Jorge Hdez, Juan Pablo y Alejandro Donate 1ºDAM
