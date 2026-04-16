@@ -58,8 +58,8 @@ Debes entregar una tabla con el siguiente formato:
 | CP2  | [10, 9, 8, 7]    | 8,5                                  | Caso normal    |
 | CP3  | [5, 5, 5, 5]     | 5                                    | Caso normal    |
 | CP4  | [0, 0, 0]        | 0                                    | Caso normal    |
-| CP5  | [10, 10, 10]     | 10                                   | Caso normal    |
-| CP6  | [0, 10]          | 5                                    | Caso normal    |
+| CP5  | [10, 10, 10]     | 10                                   | Caso límite    |
+| CP6  | [0, 10]          | 5                                    | Caso límite    |
 | CP7  | []               | Error (lista vacía)                  | Caso erróneo   |
 | CP8  | [5, 12]          | Error (fuera de rango)               | Caso erróneo   |
 | CP9  | [7, "a", 5]      | Error (valor no numérico)            | Caso erróneo   |
