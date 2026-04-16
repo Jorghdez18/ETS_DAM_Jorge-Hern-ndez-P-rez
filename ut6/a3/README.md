@@ -1,2 +1,2 @@
 ## Imagen de cobertura de codigo:
-![coberturacodigo.png](/img/coberturatest.png)
+![coberturacodigo.png](/a3/img/coberturatest.png)
