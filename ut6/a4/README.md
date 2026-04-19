@@ -38,6 +38,7 @@ Tras diseñar los tests y analizar el código:
 
 - ¿Qué porcentaje de cobertura has obtenido?
   A la hora de abrir el index dentro de la carpeta target, no me aparece dicha imagen de la cobertura de test en jacoco, adjunto esta foto de los test en un .txt.
+  
   ![](image.png)
 
 
