@@ -37,7 +37,7 @@ Tras diseñar los tests y analizar el código:
   He implementado 13 tests en total.
 
 - ¿Qué porcentaje de cobertura has obtenido?
--  
+  ![Cobertura JaCoCo](target/site/jacoco/jacoco.png)
 
 
 - ¿Todos los tests pasan correctamente?  
